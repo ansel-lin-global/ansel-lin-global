@@ -1,16 +1,54 @@
-## Hi there 👋
+### 👋 Hi, I'm Ansel – a Product-Focused Data Scientist | Experimentation Strategist | MLOps Builder | Generative AI Practitioner
 
-<!--
-**ansel-lin-global/ansel-lin-global** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bent on driving self-growth and delivering business value through data-driven and scalable machine learning systems.
 
-Here are some ideas to get you started:
+I thrive at the intersection of data, product, and impact — building systems that not only predict, but perform and scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I Do
+
+💡 **Product Experimentation & Causal Inference**  
+Design and evaluate A/B tests, uplift models, and causal frameworks to measure the true impact of product features and marketing campaigns.
+
+⚙️ **MLOps & Automation**  
+Build retrainable ML pipelines with Vertex AI and GitHub Actions. Integrate drift detection, monitoring, and daily prediction pipelines into production.
+
+🧠 **Applied Generative AI**  
+Work on GenAI-powered search recommendations, content generation, and BI assistants — deployed across GCP and AWS to support global marketing and product operations.
+
+---
+
+### 🛠️ Tools & Technologies
+
+`Python` `SQL` `GCP (BigQuery, Vertex AI)` `AWS (Athena, SageMaker)` `CI/CD (GitHub Actions)`  
+`MLOps` `A/B Testing` `Causal Inference` `Generative AI (LLM, RAG)`  
+`GA4` `Tableau` `Looker Studio` `Customer Segmentation` `Product Experimentation` `Product Recommendation`
+
+
+---
+
+### 🌍 A Bit About Me
+
+- Currently building machine learning systems at **ASUS**, powering 40+ global e-commerce sites
+- Implemented our team’s first scalable **MLOps** framework: retraining, drift detection, CI/CD
+- Partner with **PM, CRM, and marketing teams** to translate business goals into ML solutions
+- Passionate about using data to tell stories, validate decisions, and build products that scale
+
+---
+
+### 📚 Featured Work
+
+🔗 [Medium Articles](https://medium.com/@ansel-lin)   
+🧠 [High Propensity Model (Coming Soon)]  
+🧭 [Generative BI Prototype (Coming Soon)]
+
+---
+
+### ✉️ Let's Connect
+
+📫 [LinkedIn](https://www.linkedin.com/in/ansel-lin/)  
+📬 [Medium](https://medium.com/@ansel-lin)  
+🌱 Always open to meaningful conversations in product data science, causal inference, and GenAI.
+
+> “Great models don’t just predict — they help people decide.”
