@@ -39,9 +39,8 @@ Work on GenAI-powered search recommendations, content generation, and BI assista
 
 ### 📚 Featured Work
 
+I document my work in causal inference, ML systems, and AI Agent here:
 🔗 [Medium Articles](https://medium.com/@ansel-lin)   
-🧠 [High Propensity Model (Coming Soon)]  
-🧭 [Generative BI Prototype (Coming Soon)]
 
 ---
 
