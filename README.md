@@ -21,7 +21,7 @@ Work on GenAI-powered search recommendations, content generation, and BI assista
 
 ### 🛠️ Tools & Technologies
 
-`Python` `SQL` `GCP (BigQuery, Vertex AI)` `AWS (Athena, SageMaker)` `CI/CD (GitHub Actions)`  
+`Python` `SQL` `GCP (BigQuery, Vertex AI)` `AWS (Athena, Sagemaker)` `CI/CD (GitHub Actions)` `AI Agent(GCP ADK, AWS AgentCore)`
 `MLOps` `A/B Testing` `Causal Inference` `Generative AI (LLM, RAG)`  
 `GA4` `Tableau` `Looker Studio` `Customer Segmentation` `Product Experimentation` `Product Recommendation`
 
