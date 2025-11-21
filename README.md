@@ -15,7 +15,8 @@ Design and evaluate A/B tests, uplift models, and causal frameworks to measure t
 Build retrainable ML pipelines with Vertex AI and GitHub Actions. Integrate drift detection, monitoring, and daily prediction pipelines into production.
 
 🧠 **Applied Generative AI**  
-Work on GenAI-powered search recommendations, content generation, and BI assistants — deployed across GCP and AWS to support global marketing and product operations.
+Build GenAI-powered search recommendations, automated content generation, and BI assistants — including multi-agent systems developed with GCP ADK and AWS AgentCore — deployed across cloud platforms to support global marketing, analytics, and product operations.  
+
 
 ---
 
@@ -30,10 +31,11 @@ Work on GenAI-powered search recommendations, content generation, and BI assista
 
 ### 🌍 A Bit About Me
 
-- Currently building machine learning systems at **ASUS**, powering 40+ global e-commerce sites
-- Implemented our team’s first scalable **MLOps** framework: retraining, drift detection, CI/CD
-- Partner with **PM, CRM, and marketing teams** to translate business goals into ML solutions
-- Passionate about using data to tell stories, validate decisions, and build products that scale
+- Currently building machine learning systems at ASUS, powering data products across 40+ global e-commerce sites  
+- Designed and deployed our team’s first scalable MLOps framework, including automated retraining, drift detection, and CI/CD pipelines  
+- Build AI Agents on both GCP ADK and AWS AgentCore, enabling BI automation and natural-language insights for internal teams  
+- Partner closely with PM, CRM, and marketing teams to translate business objectives into end-to-end ML and analytics solutions  
+- Passionate about using data to tell stories, validate decisions, and build products that scale globally  
 
 ---
 
